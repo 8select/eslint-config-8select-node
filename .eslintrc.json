@@ -1,0 +1,5 @@
+{
+  "extends": [ "8select", "plugin:node/recommended" ],
+  "plugins": [ "node" ],
+  "rules": {}
+}
