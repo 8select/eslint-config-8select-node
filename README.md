@@ -1,23 +1,22 @@
-# eslint-config-8select-lambda
+# eslint-config-8select-node
 
-> This is a proposal for a lambda ESLint config based on [Standard](https://github.com/feross/standard) for JavaScript code at 8select.
+> This is a proposal for a node ESLint config based on [Standard](https://github.com/feross/standard) for JavaScript code at 8select.
 
 
 ## Installation
 
 ```
-# Install `eslint` from npm and `eslint-config-8select-lambda` from GitHub:
-$ npm i eslint 8select/eslint-config-8select-lambda
+npm i -D eslint 8select/eslint-config-8select-node
 ```
 
 
 ## Usage
 
-Once you installed `eslint-config-8select-lambda`, you can use it by specifying `8select-lambda` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
+Once you installed `eslint-config-8select-node`, you can use it by specifying `8select-node` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
 
 ```js
 {
-  "extends": "8select-lambda",
+  "extends": "8select-node",
   "rules": {
     // Additional, per-project rules...
   }

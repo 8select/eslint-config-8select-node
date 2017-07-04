@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-8select-lambda",
+  "name": "eslint-config-8select-node",
   "version": "0.0.1",
-  "description": "8select lambda standard-based ESLint config",
+  "description": "8select node standard-based ESLint config",
   "engines": {
     "node": ">=4.3.0"
   },
@@ -12,26 +12,24 @@
     "LICENSE",
     "README.md"
   ],
-  "scripts": {
-    "test": "node test | node_modules/.bin/tap-spec"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/8select/eslint-config-8select-lambda.git"
+    "url": "git+https://github.com/8select/eslint-config-8select-node.git"
   },
   "keywords": [
     "8select",
     "javascript",
     "eslint",
     "standard",
-    "lambda"
+    "lambda",
+    "node"
   ],
   "author": "8select Software GmbH",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/8select/eslint-config-8select-lambda/issues"
+    "url": "https://github.com/8select/eslint-config-8select-node/issues"
   },
-  "homepage": "https://github.com/8select/eslint-config-8select-lambda#readme",
+  "homepage": "https://github.com/8select/eslint-config-8select-node#readme",
   "devDependencies": {
     "eslint": "^3.9.0"
   },
