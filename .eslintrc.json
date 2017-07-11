@@ -1,6 +1,6 @@
 {
   "extends": ["8select", "plugin:tape/recommended"],
-  "plugins": ["node", "tape"],
+  "plugins": ["tape"],
   "rules": {
     "no-console": "off",
     "node/no-unpublished-require": "off",
