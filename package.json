@@ -34,8 +34,7 @@
     "eslint": "^4.5.0"
   },
   "dependencies": {
-    "eslint-config-8select": "github:8select/eslint-config-8select",
-    "eslint-plugin-tape": "^1.1.0"
+    "eslint-config-8select": "github:8select/eslint-config-8select"
   },
   "peerDependencies": {
     "eslint": "^4.2.0"
