@@ -34,7 +34,8 @@
     "eslint": "^4.5.0"
   },
   "dependencies": {
-    "eslint-config-8select": "github:8select/eslint-config-8select"
+    "eslint-config-8select": "github:8select/eslint-config-8select",
+    "eslint-plugin-jest": "^20.0.3"
   },
   "peerDependencies": {
     "eslint": "^4.2.0"
