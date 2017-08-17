@@ -1,10 +1,12 @@
 {
   "extends": [
     "8select",
-    "plugin:jest/recommended"
+    "plugin:jest/recommended",
+    "plugin:flowtype/recommended"
   ],
   "plugins": [
-    "jest"
+    "jest",
+    "flowtype"
   ],
   "rules": {
     "no-console": "off",
