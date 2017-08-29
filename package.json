@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/8select/eslint-config-8select-node#readme",
   "devDependencies": {
-    "eslint": "^4.2.0"
+    "eslint": "^4.5.0"
   },
   "dependencies": {
     "eslint-config-8select": "github:8select/eslint-config-8select",
