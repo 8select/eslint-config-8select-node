@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-8select-node",
+  "name": "@8select/eslint-config-8select-node",
   "version": "1.0.0",
   "description": "8select node standard-based ESLint config",
   "engines": {
