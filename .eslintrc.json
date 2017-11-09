@@ -1,6 +1,16 @@
 {
-  "extends": ["8select", "plugin:tape/recommended"],
-  "plugins": ["tape"],
+  "extends": [
+    "8select",
+    "plugin:jest/recommended",
+    "plugin:flowtype/recommended"
+  ],
+  "plugins": [
+    "jest",
+    "flowtype"
+  ],
+  "env": {
+    "jest/globals": true
+  },
   "rules": {
     "no-console": "off",
     "node/no-unpublished-require": "off",

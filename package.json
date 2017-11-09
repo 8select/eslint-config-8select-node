@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-8select-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "8select node standard-based ESLint config",
   "engines": {
     "node": ">=4.3.0"
@@ -35,7 +35,8 @@
   },
   "dependencies": {
     "eslint-config-8select": "github:8select/eslint-config-8select",
-    "eslint-plugin-tape": "^1.1.0"
+    "eslint-plugin-flowtype": "^2.35.0",
+    "eslint-plugin-jest": "^20.0.3"
   },
   "peerDependencies": {
     "eslint": "^4.2.0"
