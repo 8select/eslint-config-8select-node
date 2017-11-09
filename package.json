@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-8select-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "8select node standard-based ESLint config",
   "engines": {
     "node": ">=4.3.0"
