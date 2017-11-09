@@ -6,13 +6,13 @@
 ## Installation
 
 ```
-npm i -D eslint 8select/eslint-config-8select-node
+npm i -D eslint @8select/eslint-config-8select-node
 ```
 
 
 ## Usage
 
-Once you installed `eslint-config-8select-node`, you can use it by specifying `8select-node` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
+Once you installed `@8select/eslint-config-8select-node`, you can use it by specifying `8select-node` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
 
 ```js
 {
